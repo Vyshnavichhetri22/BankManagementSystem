@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/LoanRepaymentForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/LoginPage.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/ManagerLoanDashboard.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/LoanApplicationForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/dao/AccountDAO.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/WithdrawForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/dao/ChequeDAO.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/ChequeInquiryDialog.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/DepositForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/EmployeeDashboard.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/dao/LoanDAO.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/entities/LoanApplication.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/DailyLogsForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/TransferForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/AuditService.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/AccountOpeningForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/ConnectionProvider.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/entities/Account.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/AccountSearchForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/CustomerDashboard.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/AdminManagerDashboard.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/service/TransactionService.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/dao/TransactionDAO.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/entities/Transaction.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/NotificationPanel.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/AccountManagementForm.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/BalanceEnquiry.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/PermissionRequest.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/StatementView.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/TransactionHistory.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/dao/TellerDAO.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/BankManagementSystem/BankManagementSystem/src/bankmanagementsystem/bankmanagementsystem/entities/Teller.java</file>
+        </group>
+    </open-files>
+</project-private>
