@@ -1,0 +1,12 @@
+==========================================
+          NEPAL BANK LIMITED             
+        DIGITAL TRANSFER RECEIPT         
+==========================================
+Date: Sun Jan 18 13:37:44 GMT+05:45 2026
+Transaction Type: Digital Transfer
+From Account: ACC543442
+To Account: ACC921682 (VYSHNAVI)
+Amount: NPR 70,000.00
+Status: SUCCESSFUL
+==========================================
+   Thank you for banking with Nepal Bank  

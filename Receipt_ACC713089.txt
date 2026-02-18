@@ -1,0 +1,8 @@
+----- NEPAL BANK OFFICIAL RECEIPT -----
+Transaction: Fund Transfer
+From Account: ACC921682
+To Account: ACC713089 (sonisha)
+Amount: NPR 2000.0
+Status: SUCCESSFUL
+Date: Thu Jan 15 23:24:44 GMT+05:45 2026
+--------------------------------------
