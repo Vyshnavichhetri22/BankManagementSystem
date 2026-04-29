@@ -35,9 +35,5 @@ Before running the project, install:
 - Open: http://localhost/phpmyadmin
 - Create database:
 
-## Screenshots
-Login Page Login_Page.png
-
-
 ## Site is live at
 https://vyshnavichhetri22.github.io/BankManagementSystem/
