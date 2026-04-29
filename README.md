@@ -38,8 +38,8 @@ Before running the project, install:
 ##  Screenshots
 ![Login](screenshots/Login_Page.png)
 ![Employee](screenshots/Employee_Dashboard.png)
-![Customer](screenshots/Customer_Dashboard.png)
-![Manager](screenshots/Manager_Dashboard.png)
+![Customer](screenshots/Customer_Dashboard.jpeg)
+![Manager](screenshots/Manager_Dashboard.jpeg)
 
 ## Site is live at
 https://vyshnavichhetri22.github.io/BankManagementSystem/
