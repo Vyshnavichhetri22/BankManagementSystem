@@ -36,10 +36,10 @@ Before running the project, install:
 - Create database:
 
 ##  Screenshots
-![Login](screenshots/Login_Page.png)
-![Employee](screenshots/Employee_Dashboard.png)
-![Customer](screenshots/Customer_Dashboard.jpeg)
-![Manager](screenshots/Manager_Dashboard.jpeg)
+![Login](Login_Page.png)
+![Employee](Employee_Dashboard.png)
+![Customer](Customer_Dashboard.jpeg)
+![Manager](Manager_Dashboard.jpeg)
 
 ## Site is live at
 https://vyshnavichhetri22.github.io/BankManagementSystem/
