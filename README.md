@@ -41,5 +41,3 @@ Before running the project, install:
 ![Customer](Customer_Dashboard.jpeg)
 ![Manager](Manager_Dashboard.jpeg)
 
-## Site is live at
-https://vyshnavichhetri22.github.io/BankManagementSystem/
